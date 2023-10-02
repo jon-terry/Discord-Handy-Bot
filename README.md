@@ -1,1 +1,1 @@
-# Discord-Handy-Bot
+Handy Bot
