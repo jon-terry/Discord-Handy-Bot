@@ -1,1 +1,1 @@
-Handy Bot
+Handy Bot for Discord
